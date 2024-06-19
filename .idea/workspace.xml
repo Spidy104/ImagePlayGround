@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a014e3-1761-473d-a7b2-faa9552eaafc" name="Changes" comment="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation">
-      <change afterPath="$PROJECT_DIR$/edge_detection/Laplacian_edge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edge_detection/SOBEL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edge_detection/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edge_detection/prewitt_mask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="02a014e3-1761-473d-a7b2-faa9552eaafc" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718793107075</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation">
+      <option name="closed" value="true" />
+      <created>1718794449061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718794449061</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1718794514496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718794514496</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +147,7 @@
     <MESSAGE value="Loop 1" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
