@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a014e3-1761-473d-a7b2-faa9552eaafc" name="Changes" comment="Loop 1">
-      <change afterPath="$PROJECT_DIR$/spatial_filters/Bilateral_Experimental.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spatial_filters/Bilateral_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spatial_filters/gaussian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spatial_filters/gaussian_filter_experimental.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spatial_filters/mean_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spatial_filters/median_experimental.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spatial_filters/median_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Image Processing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Image Processing.iml" afterDir="false" />
+    <list default="true" id="02a014e3-1761-473d-a7b2-faa9552eaafc" name="Changes" comment="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation">
+      <change afterPath="$PROJECT_DIR$/edge_detection/Laplacian_edge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge_detection/SOBEL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge_detection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge_detection/prewitt_mask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial_filters/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/spatial_filters/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial_filters/box_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/spatial_filters/box_filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,35 +26,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Spidy104"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Spidy104&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Spidy104/ImagePlayGround",
-    "accountId": "053ed09a-e03d-48aa-8c36-f8067cb3c4c7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Spidy104/ImagePlayGround&quot;,
+    &quot;accountId&quot;: &quot;053ed09a-e03d-48aa-8c36-f8067cb3c4c7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2i5iI3CLaGVk15okrI4cyn6EEVi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.box_filter.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.box_filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Image Processing" />
@@ -119,11 +111,32 @@
       <option name="project" value="LOCAL" />
       <updated>1718787275542</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation">
+      <option name="closed" value="true" />
+      <created>1718793107075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718793107075</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Loop 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loop 1" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'refs/remotes/origin/main'&#10;Round 1 of the interation" />
   </component>
 </project>
